@@ -16,12 +16,14 @@ describe('# SUM', function() {
     expect(sum(2, 3)).to.be.equal(5);
   });
 
-  it('Should SUM return an error if it receive just onde parameter', function() {
-    expect(sum(1)).to.be.an('error');
+  it('Should SUM return an error if it receive just onde parameter', 
+    function() {
+      expect(sum(1)).to.be.an('error');
   });
 
-  it('Should SUM return an error if the parameter has not a number', function() {
-    expect(sum('a', 'b')).to.be.an('error');
+  it('Should SUM return an error if the parameter has not a number', 
+    function() {
+      expect(sum('a', 'b')).to.be.an('error');
   });
 
 });
