@@ -1,0 +1,31 @@
+{
+  "name": "simple-test-example",
+  "version": "1.0.0",
+  "description": "A simple test exemple",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanribeiros/simple-test-example.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "bdd"
+  ],
+  "author": "Luan Ribeiro <luanribeiros@gmail.com> (https://luanribeiros.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luanribeiros/simple-test-example/issues"
+  },
+  "homepage": "https://github.com/luanribeiros/simple-test-example#readme"
+}
