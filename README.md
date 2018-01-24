@@ -1,2 +1,1 @@
-# simple-test-example
-Um exemplo simples de testes
+# A simple test example
